@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Javascript Developer (Full Stack, Frontend, Mobile)
 ---------------------------------------------------
 
-Coding for a living for 7 years, with main focus in Javascript frameworks & libraries. Worked as a frontend developer, full stack developer, mobile developer, full stack development and currently doing mobile app development with React Native.
+Coding for a living for 8+ years, with main focus in Javascript frameworks & libraries. Worked as a frontend developer, full stack developer, mobile developer.
+Currently working for The Premier League
 
 * 🌍  I'm based in Guimarães, 🇵🇹 
 * 🖥️  See my portfolio at [my personal website](http://tiagomagalha.es) 
-* ✉️  You can contact me at [hi@tiagomagalha.es](mailto:hi@tiagomagalha.es) 
-* 🧠  I'm learning React Native and Alternative App Distribution
+* ✉️  You reach me out at [hi@tiagomagalha.es](mailto:hi@tiagomagalha.es)
+* 👨🏻‍💻  [LinkedIn](https://www.linkedin.com/in/tiagomsmagalhaes) profile
 
 ### Skills  
 
